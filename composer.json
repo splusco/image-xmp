@@ -1,5 +1,5 @@
 {
-    "name": "dchesterton/image",
+    "name": "splusco/image",
     "license": "MIT",
     "keywords": ["Image", "Photo", "Metadata", "XMP", "IPTC", "Exif"],
     "description": "Image metadata library",
